@@ -15,7 +15,7 @@
             </a>
         </td>
         <td style="padding: 10px;">
-            <a href="https://huggingface.co/spaces/amariayudha/Predictix">
+            <a href="https://huggingface.co/spaces/EricoR/Predictix">
                 <img src="https://img.shields.io/badge/Demo-Hugging%20Face-blue" alt="Hugging Face Demo">
             </a>
         </td>
